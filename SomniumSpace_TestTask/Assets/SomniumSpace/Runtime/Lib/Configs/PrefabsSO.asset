@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25925a8dddee4418d9b48cb03324f8d7, type: 3}
+  m_Name: PrefabsSO
+  m_EditorClassIdentifier: DSiT.Azulon.Runtime::Azulon.Configs.PrefabsSO
+  UIContainer: {fileID: 1501154649550547817, guid: 28a468cc277f041348b2712ce7081446, type: 3}
+  InputReader: {fileID: 11400000, guid: d0004b25f37844229a323cc921729514, type: 2}
+  PlayerGfx: {fileID: 7585687837138075823, guid: 3167f040c74784d4e9215cfaac6ac0f7, type: 3}
+  Player:
+    RawGuidValue: d30c6a82ab6e043158e2b4aa1779dc12
+  VoiceComponent: {fileID: 45107226504405489, guid: 7bf1327c4220044ef940234734d57709, type: 3}
+  NetworkRunner: {fileID: 8010926792851716279, guid: 70e0c9361dc454a0980a8e839292e221, type: 3}

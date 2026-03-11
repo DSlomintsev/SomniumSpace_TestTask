@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ded02d2b7f7b44618feb2d959223ffc2, type: 3}
+  m_Name: DialogsSO
+  m_EditorClassIdentifier: DSiT.Azulon.Runtime::Azulon.Configs.UI.DialogsSO
+  Items:
+  - {fileID: 3660823604601155473, guid: cb92536cbdcd5434a8b49e4e3438ac16, type: 3}
+  - {fileID: -6092489166972149474, guid: 8d49b819909f94b868bf58d4ae19d08a, type: 3}
+  - {fileID: 6180503991097737813, guid: 955626966b13547158b6c4b6ee9cc957, type: 3}
+  - {fileID: -7814891514445001516, guid: 83da0e5a63e7044f086c8031c0ff5239, type: 3}
+  - {fileID: 3914844476467324087, guid: 6be6dcd1650a04840b0e9eab303dcb6c, type: 3}
+  - {fileID: 40506685672175484, guid: 14d011912aadd4e499c6fc30ad70ff6b, type: 3}
+  - {fileID: 1915633943679024277, guid: 4541a0489de1f4e53a8094c41d2e0e3b, type: 3}
+  ModalBkg: {fileID: 5295337868646853581, guid: 2f04c8a538d694b2a8639745b4265232, type: 3}
